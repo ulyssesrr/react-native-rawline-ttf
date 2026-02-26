@@ -1,3 +1,47 @@
+# react-native-rawline-ttf
+
+This is the Rawline font with proper PostScript names for react-native.
+
+## Usage
+
+### expo-font
+
+```json
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+          "node_modules/react-native-rawline-ttf/font/Rawline-Black.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-BlackItalic.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-Bold.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-BoldItalic.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-ExtraBold.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-ExtraBoldItalic.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-ExtraLight.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-ExtraLightItalic.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-Italic.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-Light.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-LightItalic.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-Medium.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-MediumItalic.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-Regular.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-SemiBold.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-SemiBoldItalic.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-Thin.ttf",
+          "node_modules/react-native-rawline-ttf/font/Rawline-ThinItalic.ttf"
+          ]
+        }
+      ]
+    ]
+  }
+}
+```
+
+# Original README
+
 ## UPDATE: RAWLINE IS NOT BEING MAINTAINED ANYMORE.
 
 ### *For a better and more up to date alternative, try [MONORALE](https://github.com/samvk/monorale-raleway-sober)*
