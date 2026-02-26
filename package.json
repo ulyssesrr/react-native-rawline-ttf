@@ -1,0 +1,21 @@
+{
+  "name": "react-native-rawline-ttf",
+  "version": "1.0.0",
+  "description": "Rawline font with proper PostScript names for react-native.",
+  "keywords": [
+    "rawline",
+    "react-native"
+  ],
+  "homepage": "https://github.com/ulyssesrr/react-native-rawline-ttf#readme",
+  "bugs": {
+    "url": "https://github.com/ulyssesrr/react-native-rawline-ttf/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulyssesrr/react-native-rawline-ttf.git"
+  },
+  "license": "SEE LICENSE IN SIL Open Font License.txt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
