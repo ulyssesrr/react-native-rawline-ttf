@@ -14,7 +14,25 @@
       "default": "./lib/module/expo.js",
       "types": "./lib/typescript/src/expo.d.ts"
     },
-    "./package.json": "./package.json"
+    "./package.json": "./package.json",
+    "./font/Rawline-BlackItalic.ttf": "./font/Rawline-BlackItalic.ttf",
+    "./font/Rawline-Black.ttf": "./font/Rawline-Black.ttf",
+    "./font/Rawline-BoldItalic.ttf": "./font/Rawline-BoldItalic.ttf",
+    "./font/Rawline-Bold.ttf": "./font/Rawline-Bold.ttf",
+    "./font/Rawline-ExtraBoldItalic.ttf": "./font/Rawline-ExtraBoldItalic.ttf",
+    "./font/Rawline-ExtraBold.ttf": "./font/Rawline-ExtraBold.ttf",
+    "./font/Rawline-ExtraLightItalic.ttf": "./font/Rawline-ExtraLightItalic.ttf",
+    "./font/Rawline-ExtraLight.ttf": "./font/Rawline-ExtraLight.ttf",
+    "./font/Rawline-Italic.ttf": "./font/Rawline-Italic.ttf",
+    "./font/Rawline-LightItalic.ttf": "./font/Rawline-LightItalic.ttf",
+    "./font/Rawline-Light.ttf": "./font/Rawline-Light.ttf",
+    "./font/Rawline-MediumItalic.ttf": "./font/Rawline-MediumItalic.ttf",
+    "./font/Rawline-Medium.ttf": "./font/Rawline-Medium.ttf",
+    "./font/Rawline-Regular.ttf": "./font/Rawline-Regular.ttf",
+    "./font/Rawline-SemiBoldItalic.ttf": "./font/Rawline-SemiBoldItalic.ttf",
+    "./font/Rawline-SemiBold.ttf": "./font/Rawline-SemiBold.ttf",
+    "./font/Rawline-ThinItalic.ttf": "./font/Rawline-ThinItalic.ttf",
+    "./font/Rawline-Thin.ttf": "./font/Rawline-Thin.ttf"
   },
   "files": [
     "src",
